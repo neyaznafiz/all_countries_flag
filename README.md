@@ -9,4 +9,4 @@
 
 ## 📦 Download
 
-Click here to [⬇️ Download The ZIP](https://github.com/neyaznafiz/flagpack/archive/refs/heads/main.zip)
+**Click here to** *[⬇️ Download ZIP](https://github.com/neyaznafiz/flagpack/archive/refs/heads/main.zip)*
