@@ -2,7 +2,7 @@
 
 | Round Corner Flags | Square Corner Flags |
 |--------------------|---------------------|
-| esp                | esp                 |
+| eps                | eps                 |
 | psd                | psd                 |
 | svg                | svg                 |
 | png                | png                 |
