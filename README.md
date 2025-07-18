@@ -19,12 +19,12 @@ A curated collection of **all national flags** of the world in multiple formats 
 
 ## 🖼️ Flag Styles & Formats
 
-| 🎨 Round Corner Flags | 🧱 Square Corner Flags |
-|------------------------|------------------------|
-| `SVG`                | `SVG`                 |
-| `PNG`                | `PNG`                 |
-| `EPS`                | `EPS`                 |
-| `PSD`                | `PSD`                 |
+| Round Corner Flags | Square Corner Flags |
+|--------------------|------------------------|
+| `SVG`              | `SVG`                 |
+| `PNG`              | `PNG`                 |
+| `EPS`              | `EPS`                 |
+| `PSD`              | `PSD`                 |
 
 Each style includes:
 - High-quality resolution
