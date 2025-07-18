@@ -39,6 +39,6 @@ Each style includes:
 
 Get the full flag pack as a ZIP archive:
 
-👉 [**⬇️ Download FlagPack**](https://github.com/neyaznafiz/globeflags/archive/refs/heads/main.zip)
+👉 [**⬇️ Download GlobeFlags**](https://github.com/neyaznafiz/globeflags/archive/refs/heads/main.zip)
 
 
