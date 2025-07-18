@@ -6,3 +6,7 @@
 | psd                | psd                 |
 | svg                | svg                 |
 | png                | png                 |
+
+## 📦 Download
+
+Click here to [⬇️ Download ZIP](https://github.com/neyaznafiz/flagpack/archive/refs/heads/main.zip)
