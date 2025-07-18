@@ -17,7 +17,7 @@ A curated collection of **all national flags** of the world in multiple formats 
 
 ---
 
-### 🖼️ Flag Styles & Formats
+## 🖼️ Flag Styles & Formats
 
 | 🎨 Round Corner Flags | 🧱 Square Corner Flags |
 |------------------------|------------------------|
@@ -35,7 +35,7 @@ Each style includes:
 
 ---
 
-### 📦 Download
+## 📦 Download
 
 Get the full flag pack as a ZIP archive:
 
