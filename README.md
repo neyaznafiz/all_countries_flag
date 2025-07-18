@@ -11,7 +11,7 @@
 
 **Click here to** [⬇️ Download ZIP](https://github.com/neyaznafiz/flagpack/archive/refs/heads/main.zip) -->
 
-# 🌍🏳️ FlagPack – World Flags Collection
+## 🌍🏳️ FlagPack – World Flags Collection
 
 A curated collection of **all national flags** of the world in multiple formats and styles — perfect for developers, designers, and educators.
 
